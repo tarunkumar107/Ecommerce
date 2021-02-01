@@ -1,0 +1,36 @@
+{
+    "mobiles":[
+        {
+            "name":"Realme3 pro",
+            "Image":"images/img1.jpg",
+            "OriginalPrice":14999,
+            "price":13999
+            
+        },{
+            
+            "name":"OppoF11 pro",
+            "Image":"images/img2.jpg",
+            "OriginalPrice":21000,
+            "price":19999
+        },{
+            
+            "name":"Poco X2",
+            "Image":"images/img3.jpg",
+            "OriginalPrice":18999,
+            "price":17999
+        },{
+            
+            "name":"Redmi 10i",
+            "Image":"images/img4.jpg",
+            "OriginalPrice":29000,
+            "price":23000
+        },{
+            
+            "name":"Redmi 5A",
+            "Image":"images/img5.jpg",
+            "OriginalPrice":10000,
+            "price":9500
+        }
+    ]
+
+}

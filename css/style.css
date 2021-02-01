@@ -1,0 +1,22 @@
+img{
+    width: 30%;
+    display: block;
+    margin: 1% auto ;
+    transition: transform .26s;
+
+
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+.card{
+    box-shadow: 0px 30px 100px -8px rgb(131, 63, 63);
+}
+.a:hover{
+    transform: scale(1.1)
+    border = 10px solid black;
+}
+.btn:hover{
+    transform: scale(1.1)
+}
